@@ -27,12 +27,12 @@
 <table>
 <tr>
 <td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/total-sales.png" width="60"/>
+<img src="https://cdn-icons-png.flaticon.com/128/3588/3588592.png" width="60"/>
 <br><b>₹438K</b>
 <br>Total Sales
 </td>
 <td width="25%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/profit.png" width="60"/>
+<img src="https://cdn-icons-png.flaticon.com/128/3135/3135706.png" width="60"/>
 <br><b>₹37K</b>
 <br>Total Profit
 </td>
